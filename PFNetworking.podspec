@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PFNetworking"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "这是一个简单的网络请求"
 
   # This description is used to generate tags and improve search results.
@@ -65,7 +65,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+  s.platform     = :ios, "8.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
